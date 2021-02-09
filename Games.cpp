@@ -6,7 +6,7 @@ LinkedIn : https://www.linkedin.com/in/manavesh-narendra-489833196/
 
 bool onPlayground(int x , int y , int z ,int host_uniform[],int guest_uniform[] )
 {
-    //xth and yth teams are here to play on playground x
+    //xth and yth teams are here to play on playground z
     bool ans;
     int uniform_x=host_uniform[x];
     int uniform_y=guest_uniform[y];
