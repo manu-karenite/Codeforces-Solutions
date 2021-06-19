@@ -3,7 +3,7 @@ This code is written by Manavesh Narendra
 E-mail : manu.karenite@gmail.com
 LinkedIn : https://www.linkedin.com/in/manavesh-narendra-489833196/
 https://codeforces.com/contest/1399/problem/A
-*
+*/
 
 
 #include <bits/stdc++.h>
